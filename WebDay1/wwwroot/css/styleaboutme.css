@@ -1,0 +1,94 @@
+﻿h1 {
+    font-size: 48px;
+    color: saddlebrown;
+    text-align: center;
+    border: 3px solid burlywood;
+}
+
+h2 {
+    font-size: 36px;
+    font-family: 'Century Gothic';
+    text-align: center;
+}
+
+h3 {
+    color: saddlebrown;
+    text-decoration: underline;
+    font-weight: normal;
+    font-family: 'Century Gothic';
+}
+
+h4 {
+    color: saddlebrown;
+    text-decoration: underline;
+    font-weight: normal;
+    font-family: 'Century Gothic';
+}
+
+footer {
+    font-family: 'Century Gothic';
+    font-size: 18px;
+    background-color: moccasin;
+    text-align: center;
+    color: saddlebrown;
+}
+
+.red {
+    color: saddlebrown;
+}
+
+.content {
+    font-family: 'Century Gothic';
+    font-size: 18px;
+    background-color: moccasin;
+    text-align: center;
+}
+
+.emphasize {
+    font-weight: bolder;
+}
+
+.space-left {
+    margin-left: 5em;
+    /*border: 5px solid blue;
+    padding: 8px 2px;
+    margin: 20px;*/
+    /*border-color: blue;
+    border-style: solid;
+    border-width: 8px 2px;
+        border-width: 2px 4px 8px 16px;
+    */
+}
+
+#timing {
+    background-color: saddlebrown;
+}
+
+#callout1 {
+    margin: 20px;
+    border: 2px solid gold;
+    padding: 2px;
+}
+
+ul li {
+    display: inline-block;
+    border: 1px solid gold;
+    background-color: burlywood;
+    padding: 2px;
+    margin: 2px;
+    width: 25%;
+    font-size: larger;
+    font: Arial;
+    text-align: center;
+}
+
+    ul li:hover {
+        background-color: saddlebrown;
+        border: 0px;
+    }
+
+    ul li a {
+        text-decoration: none;
+        color: white;
+        text-align: center;
+    }
